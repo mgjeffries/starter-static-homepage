@@ -6,7 +6,7 @@ categories: about this site
 ---
 When I set out to create this site, the main goal was not to create a nice looking site. It wasn't to display my personal information to strangers. The goal was to learn how to use the tools that make web development possible.
 
-One of the first things that I learned is that if I did just want a good looking site, learning programing wasn't necessary. There are lots of platforms like wix or Squarespace that will make creating and hosting a site easy, and free up the end user to concentrate on the graphic and flow of the site. But I knew that that wasn't my goal.
+One of the first things that I learned is that learning programing is hard. If you just want a good looking site there are lots of platforms like wix or Squarespace that will make creating and hosting a site easy, and free up the end user to concentrate on the graphic and flow of the site. But I knew that that wasn't my goal.
 
 In programing, the language that is used for a site can get a lot of attention. I have more experience with python than any other language, so I thought that it might be a good fit. I have made simple sites using the flask framework, such as the demo project that I created on repl [here](https://repl.it/@gib_jeffries/MGJ-SimpleFlask). The python+flask setup might be a good fit for some people on some projects, but it turned out not to be a great fit for me on this project. More on that in a minute.
 
