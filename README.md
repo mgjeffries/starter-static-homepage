@@ -11,5 +11,5 @@ This site was built using a ruby jeckyll template so if you run into errors, ref
 `git clone https://github.com/mgjeffries/mgjeffries.github.io.git`
 1. Move to the repo you just created! `cd mgjeffries.github.io`
 1. Install the project: `gem install bundler jekyll`
-1. Bundle exec jekyll serve
+1. Start the server: `Bundle exec jekyll serve`
 1. In the browser, go to [http://localhost:4000](http://localhost:4000)
