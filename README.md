@@ -13,3 +13,9 @@ This site was built using a ruby jeckyll template so if you run into errors, ref
 1. Install the project: `gem install bundler jekyll`
 1. Start the server: `Bundle exec jekyll serve`
 1. In the browser, go to [http://localhost:4000](http://localhost:4000)
+
+
+## When Security Vulnerabilities Show up
+This site is built in Ruby, and there are frequent security vulnerabilities that are exposed in the dependencies. Since there is no secure information on this site, the risk is low, but it's still best to keep it up to date.
+
+1. `bundle update`
