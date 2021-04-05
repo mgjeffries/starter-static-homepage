@@ -23,7 +23,10 @@ Check out projects I have worked on here: [https://github.com/mgjeffries](https:
 
 See a video of my front-end capstone here: [https://youtu.be/gP_i7jAj6s8](https://youtu.be/gP_i7jAj6s8)
 
+See a video of my full-stack capstone project here: [https://youtu.be/rXQJehALSc8](https://youtu.be/rXQJehALSc8)
+
 My teamates and I show off our full stack publishing app here: [https://youtu.be/TH54EudEglA](https://youtu.be/TH54EudEglA)
+
 
 # Connect with Me!
 [https://www.linkedin.com/in/gib-jeffries/](https://www.linkedin.com/in/gib-jeffries/)
